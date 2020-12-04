@@ -2,9 +2,7 @@
     "name": "wunderio/ecs-drupal",
     "description": "Finder for ECS.",
     "type": "library",
-    "require": {
-        "symplify/easy-coding-standard": "^6.0"
-    },
+    "require": {},
     "license": "MIT",
     "authors": [
         {
